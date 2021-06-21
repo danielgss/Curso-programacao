@@ -17,4 +17,4 @@ console.log(typeof media)
 console.log(typeof Number)
 
 
-console.log(typeof 2);
+console.log(Number(2))
